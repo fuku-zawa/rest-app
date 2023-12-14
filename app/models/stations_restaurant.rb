@@ -1,0 +1,2 @@
+class StationsRestaurant < ApplicationRecord
+end

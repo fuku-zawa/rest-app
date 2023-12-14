@@ -1,0 +1,2 @@
+class Closeday < ApplicationRecord
+end

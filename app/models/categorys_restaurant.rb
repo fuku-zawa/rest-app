@@ -1,0 +1,2 @@
+class CategorysRestaurant < ApplicationRecord
+end

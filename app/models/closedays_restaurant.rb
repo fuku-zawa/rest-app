@@ -1,0 +1,2 @@
+class ClosedaysRestaurant < ApplicationRecord
+end
